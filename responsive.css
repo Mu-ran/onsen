@@ -1,0 +1,728 @@
+@media (max-width: 1630px) {
+  .about {
+    margin-bottom: 78px;
+  }
+
+  .about__wrap {
+    display: block;
+  }
+
+  .about__wrap:nth-child(2) {
+    display: block;
+  }
+
+  .about__content__wrap {
+    text-align: center;
+  }
+
+  .about__content__1,
+  .about__content__2,
+  .about__content__3 {
+    padding: 0;
+    width: 470px;
+    margin: 0 auto;
+    margin-top: 50px;
+  }
+
+  .about__img__3 {
+    padding: 122px 0 0 0px;
+
+  }
+
+  h2,
+  .about__text {
+    text-align: center;
+  }
+
+  .about__btn {
+    margin-left: 138px;
+  }
+
+  .access__img__wrap {
+    display: block;
+    margin: 0 auto;
+    width: 660px;
+  }
+
+  .access__img {
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 1280px) {
+  .plan {
+    height: 100%;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .plan__menu {
+    display: block;
+    text-align: center;
+  }
+
+  .plan__menu__list {
+    padding-bottom: 60px;
+  }
+
+  .news {
+    height: 100%;
+    margin: 0 5px 0 5px;
+  }
+
+}
+
+@media (max-width: 1200px) {
+  .news__img__wrap {
+    display: block;
+  }
+
+  .news__img__contents {
+    margin: 20px auto;
+  }
+
+  /* お部屋 */
+  .room__about {
+    position: static;
+    height: 730px;
+    margin: 0 0 80px 0;
+  }
+
+  .ryori__about {
+    position: static;
+    height: 680px;
+    margin: 0 0 80px 0;
+  }
+
+  .onsen__about {
+    position: static;
+    height: 680px;
+    margin: 0 0 80px 0;
+  }
+
+  .room__about2_2,
+  .ryori__about2_2,
+  .onsen__about2_2 {
+    margin: 0 0 80px 0;
+  }
+
+
+  .room__img__wrap,
+  .ryori__img__wrap,
+  .onsen__img__wrap {
+    max-width: 525px;
+    margin: 0 auto;
+  }
+
+  .room__img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .room__right,
+  .ryori__right,
+  .onsen__right {
+    position: static;
+    max-width: 525px;
+    margin: 0 auto;
+  }
+
+  .room__right__title,
+  .ryori__right__title,
+  .onsen__right__title {
+    padding: 60px 0 52px 0;
+    text-align: center;
+  }
+
+  .room__right__p,
+  .ryori__right__p,
+  .onsen__right__p {
+    padding: 0 0 52px 0;
+    text-align: center;
+  }
+
+  .room__right__text,
+  .onsen__right__text {
+    padding: 0;
+    text-align: center;
+  }
+
+  .room__about2_1,
+  .ryori__about2_1,
+  .onsen__about2_1 {
+    display: none;
+  }
+
+  .room__about2_2,
+  .ryori__about2_2,
+  .onsen__about2_2 {
+    display: block;
+  }
+}
+
+@media (max-width: 1100px) {
+  .fv__inner {
+    right: 0;
+    left: 0;
+    width: 60px;
+    margin: 0 auto;
+  }
+
+  .about {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .about__img__1,
+  .about__img__2,
+  .about__img__3 {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-width: 1024px) {
+
+  .about__img__1,
+  .about__img__2,
+  .about__img__3 {
+    padding-top: 70px;
+  }
+
+  .about {
+    margin-bottom: 70px;
+  }
+
+  .kounou {
+    border-top: 1px solid #E7E7E7;
+  }
+
+  .yohaku {
+    border-top: 1px solid #E7E7E7;
+    border-bottom: 1px solid #E7E7E7;
+  }
+
+  dl {
+    padding: 0 5px;
+  }
+
+  dt {
+    position: static;
+  }
+
+  dd {
+    padding: 0;
+  }
+}
+
+
+
+@media (max-width: 890px) {
+  .title__top2 {
+    padding: 149px 0 0 70px;
+  }
+
+  .text {
+    padding: 149px 0 0 70px;
+  }
+
+  .gmap {
+    width: 700px;
+    margin: 0 auto;
+  }
+
+  iframe {
+    height: 500px;
+    width: 700px;
+  }
+
+}
+
+@media (max-width: 768px) {
+  .pc__menu {
+    display: none;
+  }
+
+  .header__left {
+    padding: 0;
+  }
+
+  h1 {
+    padding: 0;
+  }
+
+  #menu {
+    display: block;
+    font-size: 50px;
+    cursor: pointer;
+    padding-right: 30px;
+  }
+
+  .slide-img {
+    max-width: 1920px;
+    /* 最大幅 */
+    min-width: 375px;
+    /* 最小幅 */
+  }
+
+  .slide-img img {
+    height: 90vh;
+    width: 768px;
+    object-fit: cover;
+  }
+
+  .fv__inner__text1,
+  .fv__inner__text2 {
+    font-size: 24px;
+  }
+
+  .fv__inner__text2 {
+    margin-right: 30px;
+  }
+
+  .gmap {
+    width: 600px;
+    margin: 0 auto;
+  }
+
+  iframe {
+    height: 400px;
+    width: 600px;
+  }
+
+}
+
+@media (max-width: 700px) {
+
+  .title__top2 {
+    padding: 149px 0 0 50px;
+  }
+
+  .text {
+    padding: 149px 0 0 50px;
+  }
+
+  .news__img__contents {
+    width: 450px;
+  }
+
+  .news__img {
+    padding: 15px 10px 15px 10px;
+  }
+
+  .access__img__wrap {
+    width: 500px;
+  }
+
+  .access__img {
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  .access__img__text__list1 {
+    display: none;
+  }
+
+  .access__img__text__list2 {
+    display: block;
+  }
+}
+
+@media (max-width: 630px) {
+  .title__top2 {
+    padding: 149px 0 0 30px;
+  }
+
+  .text {
+    padding: 149px 0 0 30px;
+  }
+
+  .content.active {
+    width: 450px;
+    height: 150px;
+  }
+
+  .gmap {
+    width: 500px;
+    margin: 0 auto;
+  }
+
+  iframe {
+    height: 350px;
+    width: 500px;
+  }
+}
+
+@media (max-width: 574px) {
+  .header__logo {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
+
+@media (max-width: 545px) {
+
+  .room__img,
+  .room__img2_2,
+  .ryori__img,
+  .ryori__img2_2,
+  .onsen__img,
+  .onsen__img2_2 {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .room__img__wrap,
+  .ryori__img__wrap,
+  .onsen__img__wrap {
+    margin: 0 10px;
+  }
+
+  .room__right,
+  .ryori__right,
+  .onsen__right {
+    padding: 0 10px;
+  }
+
+  .room__p2,
+  .ryori__p2,
+  .onsen__p2 {
+    margin: 0 10px;
+  }
+
+  .title__top1 {
+    padding: 64px 60px 0 19px;
+  }
+
+  .title__top2 {
+    padding: 149px 0 0 20px;
+  }
+
+  .text {
+    padding: 149px 0 0 20px;
+  }
+
+  .content.active {
+    width: 400px;
+    height: 120px;
+  }
+
+  .access__img__wrap {
+    width: 450px;
+  }
+
+  .access__img {
+    width: 450px;
+  }
+
+  .gmap {
+    width: 450px;
+    margin: 0 auto;
+  }
+
+  iframe {
+    height: 300px;
+    width: 450px;
+  }
+}
+
+@media (max-width: 500px) {
+
+  .header__right,
+  .header__common__right {
+    min-width: 150px;
+  }
+
+  h1 {
+    font-size: 30px;
+  }
+
+  #menu {
+    font-size: 40px;
+    padding-right: 10px;
+  }
+
+  .title__top1 {
+    padding: 64px 20px 0 10px;
+  }
+
+  .title__top2 {
+    padding: 149px 0 0 10px;
+  }
+
+  .text {
+    padding: 149px 0 0 10px;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
+  .about__content__1,
+  .about__content__2,
+  .about__content__3 {
+    width: 360px;
+  }
+
+  .about__btn {
+    margin-left: 88px;
+  }
+
+  .plan__menu__list {
+    padding: 0 0 60px 0;
+  }
+
+  .news__img {
+    width: 80px;
+    height: 80px;
+    padding: 25px 5px 25px 10px;
+  }
+
+  .news__img__contents {
+    width: 390px;
+  }
+
+  .news__img__text__wrap {
+    padding: 25px 10px 25px 5px;
+  }
+
+  .content.active {
+    width: 350px;
+  }
+
+  .news__title__text__container {
+    width: 400px;
+  }
+
+  .access__img__wrap {
+    width: 400px;
+  }
+
+  .access__img {
+    width: 400px;
+  }
+
+  .gmap {
+    width: 400px;
+    margin: 0 auto;
+  }
+
+  iframe {
+    height: 300px;
+    width: 400px;
+  }
+}
+
+@media (max-width: 450px) {
+  .title__top1 {
+    padding: 64px 20px 0 0px;
+    font-size: 22px;
+  }
+
+  .title__top2 {
+    padding: 149px 0 0 5px;
+    font-size: 22px;
+  }
+
+}
+
+
+@media (max-width: 414px) {
+  .fv__inner {
+    top: 40%;
+  }
+
+  .slide-img img {
+    /* height: 90vh; */
+    width: 414px;
+    height: 736px;
+  }
+
+  .header__right,
+  .header__common__right {
+    min-width: 120px;
+    margin: 0;
+  }
+
+  h1 {
+    padding: 0 10px 0 0;
+    font-size: 28px;
+  }
+
+  .header__left__img,
+  .header__common__left__img {
+    margin: 0 10px 0 10px;
+    padding: 0;
+  }
+
+  #modal {
+    max-width: 400px;
+    top: 100px;
+  }
+
+  form {
+    width: 390px;
+    margin: 0 auto;
+    padding: 0 5px 0 5px;
+  }
+
+  input {
+    width: 300px;
+  }
+
+  .modal__plan__text {
+    width: 310px;
+  }
+
+  .text {
+    padding: 149px 0 0 0px;
+    font-size: 14px;
+  }
+
+  .about__text {
+    font-size: 3vmin;
+  }
+
+  .about__img__1,
+  .about__img__2,
+  .about__img__3 {
+    padding-top: 40px;
+  }
+
+  .about__content__1,
+  .about__content__2,
+  .about__content__3 {
+    margin-top: 40px;
+  }
+
+  h2 {
+    padding-bottom: 30px;
+  }
+
+  .about__text {
+    padding-bottom: 40px;
+  }
+
+  .about {
+    margin-bottom: 40px;
+  }
+
+  .plan {
+    padding-top: 30px;
+  }
+
+  .plan__menu__img {
+    max-width: 331px;
+    height: 209px;
+    padding: 15px 0 20px 0;
+  }
+
+  .news {
+    padding: 30px 0;
+  }
+
+  .news__img__contents {
+    width: 350px;
+  }
+
+  .news__img {
+    padding: 25px 0px 25px 10px;
+  }
+
+  .news__img__text__wrap {
+    padding: 25px 0 25px 5px;
+  }
+
+  .content.active {
+    width: 300px;
+  }
+
+  .news__title__text__container {
+    width: 350px;
+  }
+
+  .access {
+    padding: 30px 5px 50px 5px;
+  }
+
+  .access__title {
+    padding-bottom: 40px;
+  }
+
+  .access__title__img {
+    padding: 0;
+  }
+
+  .access__img__wrap {
+    width: 360px;
+  }
+
+  .access__img {
+    width: 360px;
+  }
+
+  .gmap {
+    width: 350px;
+    margin: 0 auto;
+    padding-top: 40px;
+  }
+
+  iframe {
+    height: 270px;
+    width: 350px;
+  }
+
+  .info__menu__list__link {
+    padding: 0 10px 40px 10px;
+  }
+}
+
+
+@media (max-width: 375px) {
+  #tojiru {
+    right: 20px;
+  }
+
+  .header__logo {
+    margin: 0;
+    min-width: 180px;
+  }
+
+  h1 {
+    padding: 0 10px 0 0;
+    font-size: 26px;
+  }
+
+  .header__left__img,
+  .header__common__left__img {
+    width: 36px;
+    height: 36px;
+    margin: 0 5px 0 5px;
+  }
+
+  #menu {
+    padding-right: 10px;
+    font-size: 40px;
+  }
+
+  #modal {
+    max-width: 370px;
+  }
+
+  form {
+    width: 350px;
+  }
+
+
+
+
+
+
+
+
+
+
+}
